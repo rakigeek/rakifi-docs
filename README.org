@@ -18,10 +18,10 @@ This liquidity dispersion creates a suboptimal borrowing and lending experience.
 
 ** Borrow and Lend Cross Chain, Seamlessly
 
-Radiant aims to be the first omnichain money market where users can deposit any major asset on any major chain and borrow various supported assets across multiple chains.
+Raki aims to be the first omnichain money market where users can deposit any major asset on any major chain and borrow various supported assets across multiple chains.
 
-The Radiant DAO's primary goal is to consolidate the ~$22 billion of fragmented liquidity dispersed across the top ten alternative layers (source: DefiLlama).
+The Raki DAO's primary goal is to consolidate the ~$22 billion of fragmented liquidity dispersed across the top ten alternative layers (source: DefiLlama).
 
-Lenders who provide liquidity to Radiant are interacting and providing utility to the platform. In addition, lenders can capture the added value from the communities’ engagement through the native token $RDNT.
+Lenders who provide liquidity to Raki are interacting and providing utility to the platform. In addition, lenders can capture the added value from the communities’ engagement through the native token $RDNT.
 
 Borrowers can withdraw against collateralized assets to obtain liquidity (working capital) without selling their assets and closing their positions.
