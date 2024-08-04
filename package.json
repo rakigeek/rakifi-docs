@@ -1,0 +1,31 @@
+{
+  "name": "raki-finance-documentaion",
+  "version": "0.0.1",
+  "description": "Raki Finance Documentation",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakigeek"
+  },
+  "author": "Jayden <jayden.dangvu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rakigeek"
+  },
+  "homepage": "https://github.com/rakigeek",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "latest",
+    "nextra-theme-docs": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
