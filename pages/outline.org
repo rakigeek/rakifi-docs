@@ -1,0 +1,69 @@
+* Introduction
+** What is RAKI
+** Key Features
+** Quick Links
+** FAQ
+*** What is RAKI Protocol?
+*** How do i interact with RAKI Protocol?
+*** Where are my supplied funds stored?
+*** What is the cost of interacting with RAKI Protocol?
+*** What is the Resilient Price Oracle?
+*** What are Isolated Pools?
+*** What are Core Pools?
+*** What are leverage Pools?
+*** What is the risk fund?
+
+** Pools
+*** Core Pool
+*** Isolated Pool
+**** Reward Distributor
+**** Peg Stability Module
+**** Automatic Income Allocation
+**** Token Converter
+**** Raki Prime
+**** Stable Rate Borrowing
+*** Leverage Pool
+
+* Raki Protocol
+** Participants
+*** Users
+*** Lenders
+*** Borrowers
+*** Airdrop Projects
+** Lending
+** Borrowing
+** Vaults
+** Points
+** Fees
+
+* Additional
+** Risks
+*** Resillient Price Oracle
+*** Interest  Rate Model
+*** Risk Fund and Shortfail handling
+*** Risk Management
+* Guides
+** RAKI Interface
+** Supplying & Borrowing
+** Liquidations
+** Vaults
+** Protocol Math
+
+* Security
+
+* Technical Documents
+** Constracts Overview
+** Technical articles
+** Core Pool
+** Isolated Pool
+** Leverage Pool
+** Oracle
+** Governance
+** Token Conveter
+* Other Info
+** Mission & Values
+** Raki Contributors
+** FAQ
+** Tntergrations
+** Branding
+** Terms of Service

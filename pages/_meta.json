@@ -1,5 +1,12 @@
 {
   "index": "Welcome to Raki Finance",
+  "introduction": "Introducion Raki Protocol",
+  "pools": "Raki's Pools",
+  "raki_protocol": "Raki Protocol",
+  "guides": "Guides",
+  "technical_documents": "Technical Documents",
+  "risks_security": "Risks & Security",
+  "other_info": "Other Information",
   "rakiapp": {
     "title": "Raki Finance ↗",
     "type": "page",
