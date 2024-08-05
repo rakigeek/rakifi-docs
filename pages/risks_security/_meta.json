@@ -1,0 +1,8 @@
+{
+  "resillient_price_oracle" : "Resillient Price Oracle",
+  "interest_rate_model" : "Interest Rate Model",
+  "risk_func_shortfail_handling" : "Risk Function & Shortfail Handling",
+  "risk_management" : "Risk Management",
+  "security" : "Security",
+  "test_case" : "Test Case"
+}
