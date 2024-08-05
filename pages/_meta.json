@@ -1,6 +1,8 @@
 {
   "index": "Welcome to Raki Finance",
-  "introduction": "Introducion Raki Protocol",
+  "what_is_raki_protocol" : "What is Raki Protocol?",
+  "key_features" : "Key Features",
+  "FAQ" : "FAQ",
   "pools": "Raki's Pools",
   "raki_protocol": "Raki Protocol",
   "guides": "Guides",
