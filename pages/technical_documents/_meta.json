@@ -5,6 +5,7 @@
   "isolated_pool" : "Isolated Pool",
   "leverage_pool" : "Leverage Pool",
   "oracle" : "Oracle",
+  "secondary_market" : "Secondary Market",
   "governance" : "Governance",
   "token_converter" : "Token Converter"
 }
